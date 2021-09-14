@@ -1,8 +1,7 @@
 # LSTM-COVID-STOCK
-Examining the effect that COVID has had on the stock market
+Examining the effect that COVID-19 has had on the stock market
 
 
-LSTM.html is a work in progress. It demonstrates the different methods that were used to:
-
-1. Learn how LSTM works
-2. Breakdown the effect that COVID has had on the stock market
+1. Data_Visualization.ipynb -> Cleaning and Manipulating the data with a brief correlation analysis to get a better understanding of the relationship between COVID-19 and the S&P 500
+2. LSTM & Correlation Analysis.ipynb -> A deep dive into my correlation analysis and predictions of the S&P 500 overtime
+3. Update_Data_Sets.ipynb -> The scripts that were used to get more up to date data
